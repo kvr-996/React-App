@@ -1,0 +1,44 @@
+{
+  "reviews": [
+    {
+      "id": "144c",
+      "storyId": "1",
+      "review": "kv"
+    },
+    {
+      "id": "056b",
+      "storyId": "1",
+      "review": "excellent"
+    },
+    {
+      "id": "25dd",
+      "body": "kvr",
+      "category": "anime"
+    },
+    {
+      "id": "762c",
+      "body": "kbt",
+      "category": "anime"
+    },
+    {
+      "id": "d002",
+      "body": "kvr",
+      "category": "anime"
+    },
+    {
+      "id": "ada9",
+      "body": "kvr",
+      "category": "anime"
+    },
+    {
+      "id": "e90a",
+      "body": "v",
+      "category": "anime"
+    },
+    {
+      "id": "ebe9",
+      "body": "j",
+      "category": "anime"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "userreg": [
+    {
+      "id": "9cb9",
+      "username": "d",
+      "email": "e@gmail.com",
+      "password": "e"
+    },
+    {
+      "id": "c201",
+      "username": "abc",
+      "email": "ABC@gmail.com",
+      "password": "abc"
+    },
+    {
+      "id": "8107",
+      "username": "kvr",
+      "email": "kvr996@gmail.com",
+      "password": "kvr"
+    }
+  ]
+}
