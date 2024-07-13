@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import Create from "./Create";
+import user from '../usereg.json'
 const Anime = () => {
   const [animeList, setAnimeList] = useState([]);
   const [searchQuery, setSearchQuery] = useState('');
@@ -47,6 +48,7 @@ const Anime = () => {
             <h2>{anime.title}</h2>
           </Link>
           <p>Author: {anime.author}</p>
+  <p>uploaded by:{user.username}</p>
           <button className="delete-button" onClick={() => handleDelete(anime.id)}>Delete</button>
         </div>
       ))}
