@@ -1,5 +1,5 @@
 {
-  "homepage": "https://kvr-996/github.io/React-App-git",
+  "homepage": "https://kvr-996/github.io/Fan-Fiction-React",
   "name": "fan-fiction",
   "version": "0.1.0",
   "private": true,
@@ -12,13 +12,15 @@
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.24.0",
     "react-scripts": "5.0.1",
+    "vite": "^5.3.3",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject","base":"/React-App-git/",
+    "eject": "react-scripts eject",
+    "base": "/React-App-git/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
